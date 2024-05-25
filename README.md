@@ -1,5 +1,5 @@
 # Prometheus-Node-Exporter-and-Grafana--Jenkins-Server
-#Mise à jour des listes de paquets
+# Mise à jour des listes de paquets
 sudo apt update -y
 ## Installation de Prometheus et création de son service ##
 # Création d'un utilisateur système pour Prometheus 
